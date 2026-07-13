@@ -1,0 +1,19 @@
+{
+  "name": "5-Kamp",
+  "short_name": "5-Kamp",
+  "description": "Digitalt norsk kortspill med kampkode, kortstokk, poeng og historikk.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d14",
+  "theme_color": "#090d14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"]
+}
